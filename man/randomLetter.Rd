@@ -20,6 +20,6 @@ a random letter of probabilities
 Random Letter Generator
 }
 \examples{
-randomletter(1) # select 1 random letter
-randomletter(2) # select 2 random letters
+randomLetter(1) # select 1 random letter
+randomLetter(2) # select 2 random letters
 }
